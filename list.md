@@ -15,3 +15,6 @@ Long-term upcoming books to read/finish
 * [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation ](http://www.amazon.com/dp/0321601912?tag=contindelive-20#)
 * Domain Driven Design by Eric Evans
 
+Finished
+========
+* [Understanding the Four Rules of Simple Design by Corey Haines](https://leanpub.com/4rulesofsimpledesign)
