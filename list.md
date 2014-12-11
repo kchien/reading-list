@@ -18,3 +18,4 @@ Long-term upcoming books to read/finish
 Finished
 ========
 * [Understanding the Four Rules of Simple Design by Corey Haines](https://leanpub.com/4rulesofsimpledesign)
+* [Ruby Under a Microscope, by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)
