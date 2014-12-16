@@ -6,5 +6,5 @@ The book [Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman]
 [View the reading list](list.md)
 
 # Comments, improvements, criticisms, or suggestions?
-
+What should I read next? Why?
 Please feel free to open a new issue so we can discuss it.
