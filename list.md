@@ -18,6 +18,10 @@ Long-term upcoming books to read/finish
 * [Exceptional Ruby, by Avdi Grimm](http://exceptionalruby.com/)
 * [Rails Recipes: Rails 3 Edition](http://www.amazon.com/Rails-Recipes-3-Edition/dp/1934356778)
 
+Books to buy
+============
+* [Mindset, by Carol Dweck](http://mindsetonline.com/)
+
 Finished
 ========
 * [Understanding the Four Rules of Simple Design by Corey Haines](https://leanpub.com/4rulesofsimpledesign)
