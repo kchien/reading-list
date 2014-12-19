@@ -21,6 +21,7 @@ Long-term upcoming books to read/finish
 Books to buy
 ============
 * [Mindset, by Carol Dweck](http://mindsetonline.com/)
+* [Mastering Algorithms with C](http://www.amazon.com/Mastering-Algorithms-C-Kyle-Loudon/dp/1565924533/ref=sr_1_45?s=books&ie=UTF8&qid=1418952235&sr=1-45&keywords=algorithm+and+data+structures+in+c) 
 
 Finished
 ========
