@@ -1,6 +1,6 @@
 Current Books in roughly priority order
 ===============================
- * [Learning SQL, 2nd edition](http://shop.oreilly.com/product/9780596520847.do)
+ * [How to Read a Book](https://www.amazon.com/gp/product/B004PYDAPE/)
  * [Functional Programming for the Object-Oriented Programmer, by Brian Marick](https://leanpub.com/fp-oo)
  * [Programming Clojure, 2nd Edition](https://pragprog.com/book/shcloj2/programming-clojure)
  * [Backbone.js in Action](http://www.manning.com/breed/)
@@ -32,4 +32,5 @@ Finished
 * [JavaScript: The Good Parts, by Douglas Crockford](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)
 * [The Passionate Programmer (2nd edition): Creating a Remarkable Career in Software Development
 by Chad Fowler](https://pragprog.com/book/cfcar2/the-passionate-programmer)
+* [Learning SQL, 2nd edition](http://shop.oreilly.com/product/9780596520847.do)
 
