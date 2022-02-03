@@ -1,14 +1,10 @@
 Current Books in roughly priority order
 ===============================
  * [How to Read a Book](https://www.amazon.com/gp/product/B004PYDAPE/)
- * [Functional Programming for the Object-Oriented Programmer, by Brian Marick](https://leanpub.com/fp-oo)
  * [Programming Clojure, 2nd Edition](https://pragprog.com/book/shcloj2/programming-clojure)
- * [Backbone.js in Action](http://www.manning.com/breed/)
- * [AngularJS in Action](http://www.manning.com/bford/) 
  * [Learning the vi and vim editors](http://shop.oreilly.com/product/9780596529833.do)
  * [Working with UNIX Processes by Jesse Storimer](http://www.jstorimer.com/pages/books)
- * [Working with Ruby Threads by Jesse Storimer](http://www.jstorimer.com/pages/books)
- 
+ * [Portable Python Projects, by Mike Riley](https://www.pragprog.com/titles/mrpython/portable-python-projects/)
 
 Long-term upcoming books to read/finish
 =======================================
@@ -17,6 +13,8 @@ Long-term upcoming books to read/finish
 * [Crafting Rails Applications: Expert Practices for Everyday Rails Development](https://pragprog.com/book/jvrails/crafting-rails-applications)
 * [Exceptional Ruby, by Avdi Grimm](http://exceptionalruby.com/)
 * [Rails Recipes: Rails 3 Edition](http://www.amazon.com/Rails-Recipes-3-Edition/dp/1934356778)
+* [Working with Ruby Threads by Jesse Storimer](http://www.jstorimer.com/pages/books)
+* [Functional Programming for the Object-Oriented Programmer, by Brian Marick](https://leanpub.com/fp-oo)
 
 Books to buy
 ============
@@ -25,6 +23,8 @@ Books to buy
 
 Finished
 ========
+* [Backbone.js in Action](http://www.manning.com/breed/)
+* [AngularJS in Action](http://www.manning.com/bford/) 
 * [Understanding the Four Rules of Simple Design by Corey Haines](https://leanpub.com/4rulesofsimpledesign)
 * [Ruby Under a Microscope, by Pat Shaughnessy](http://patshaughnessy.net/ruby-under-a-microscope)
 * [Secrets of the JavaScript Ninja, John Resig and Bear Bibeault](http://www.manning.com/resig/)
