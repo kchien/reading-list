@@ -1,5 +1,8 @@
 Current Books in roughly priority order
 ===============================
+ * [Prompt Engineering for LLMs by John Berryman, Albert Ziegler](https://learning.oreilly.com/library/view/prompt-engineering-for/9781098156145/ch08.html#ch08_01_selecting_and_organizing_context_1728429579286931)
+ * [Implementing Domain-Driven Design, Book, by Vaughn Vernon](https://learning.oreilly.com/library/view/implementing-domain-driven-design/9780133039900/ch01lev2sec6.html)
+ * [The Phoenix Project, Book, by Gene Kim, Kevin Behr & George Spafford](https://learning.oreilly.com/library/view/the-phoenix-project/9781457191350/33-ch30.xhtml)
  * [How to Read a Book](https://www.amazon.com/gp/product/B004PYDAPE/)
  * [Programming Clojure, 2nd Edition](https://pragprog.com/book/shcloj2/programming-clojure)
  * [Learning the vi and vim editors](http://shop.oreilly.com/product/9780596529833.do)
